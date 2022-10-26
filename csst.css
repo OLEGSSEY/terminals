@@ -1,0 +1,20 @@
+@font-face { 
+font-family: "Inter"; 
+src: url("fonts/Inter-SemiBold.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+}
+@font-face { 
+font-family: "Jura"; 
+src: url("fonts/Jura-Medium.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+}
+a.button1 {
+    background: white; 
+    color: black;
+    padding: 1rem 1.5rem; 
+    margin-bottom: 1rem; 
+	border-radius: 10px;
+	text-decoration:none;
+   }
